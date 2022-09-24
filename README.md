@@ -10,6 +10,7 @@ all licensed as CC0 - https://polyhaven.com/license
 ## textures
 ・Brick Floor 002 : Dimitrios Savva, Rico Cilliers - https://polyhaven.com/a/t_brick_floor_002  
 ・Coral Fort Wall 01 : Dimitrios Savva, Rico Cilliers - https://polyhaven.com/a/coral_fort_wall_01  
+・Decal: Asphalt Puddle Map (Decals 0006) : www.texturecan.com - https://www.texturecan.com/details/427/  
   
 # 
 https://happy358.github.io/Images/HDR/???.jpg  
