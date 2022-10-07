@@ -7,6 +7,7 @@ all licensed as CC0 - https://polyhaven.com/license
 ・Spaichingen Hill : Andreas Mischok - https://polyhaven.com/a/spaichingen_hill  
 ・Leadenhall Market : Andreas Mischok - https://polyhaven.com/a/leadenhall_market  
 ・Rainforest Trail : Dimitrios Savva, Jarod Guest - https://polyhaven.com/a/rainforest_trail  
+・Spiaggia di Mondello : Andreas Mischok - https://polyhaven.com/a/spiaggia_di_mondello  
   
 ## textures
 ・Brick Floor 002 : Dimitrios Savva, Rico Cilliers - https://polyhaven.com/a/t_brick_floor_002  
