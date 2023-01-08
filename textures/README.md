@@ -1,6 +1,6 @@
 # Images
 
-・Moon Image from CGI Moon Kit ©NASA's Scientific Visualization Studio : CGI Moon Kit : https://svs.gsfc.nasa.gov/4720   
+・Moon Image ©NASA's Scientific Visualization Studio : CGI Moon Kit : https://svs.gsfc.nasa.gov/4720   
 ・Mars Image ©Nasa.gov : Mars : https://nasa3d.arc.nasa.gov/detail/mar0kuu2  
 ・Neptune Image ©Nasa.gov : Neptune : https://nasa3d.arc.nasa.gov/detail/nep0fds1  
 ・Pluto Image ©Nasa.gov : Pluto : https://nasa3d.arc.nasa.gov/detail/plu0rss1  
