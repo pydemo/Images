@@ -9,8 +9,8 @@
 ・Venus Image ©Nasa.gov : Venus : https://nasa3d.arc.nasa.gov/detail/ven0aaa2  
 ・Earth Image ©Nasa.gov : Earth : https://nasa3d.arc.nasa.gov/detail/ear0xuu2  
 ・Mercury Image ©Nasa.gov : Enhanced Color Mercury Map : https://solarsystem.nasa.gov/resources/531/enhanced-color-mercury-map/?category=planets_mercury  
-・Uranus Image ©Solar System SCOPE : Uranus : https://www.solarsystemscope.com/textures/  
-・Sun Image ©Solar System SCOPE : Sun : https://www.solarsystemscope.com/textures/  
+・Uranus Image ©Solar System SCOPE : Uranus : https://www.solarsystemscope.com/textures/ : (CC BY 4.0)   
+・Sun Image ©Solar System SCOPE : Sun : https://www.solarsystemscope.com/textures/ : (CC BY 4.0)   
   
 ・Cloud Image ©Natural Earth III : Tom Patterson : Cloud map : http://www.shadedrelief.com/natural3/index.html  
 ・Milky way Image ©Solar System SCOPE : Stars + Milky Way : https://www.solarsystemscope.com/textures/ : (CC BY 4.0)   
