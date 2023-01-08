@@ -4,7 +4,7 @@
 ・Decal: Asphalt Puddle Map (Decals 0006) : www.texturecan.com - https://www.texturecan.com/details/427/  
 ・Cloud map: Natural Earth III : Tom Patterson - http://www.shadedrelief.com/natural3/pages/clouds.html  
 
-・Moon Image from Nasa : CGI Moon Kit : https://svs.gsfc.nasa.gov/4720  
+・Moon Image ©Nasa.gov : CGI Moon Kit : https://svs.gsfc.nasa.gov/4720  
 ・Mars Image from Nasa : Mars : https://nasa3d.arc.nasa.gov/detail/mar0kuu2  
 ・Neptune Image from Nasa : Neptune : https://nasa3d.arc.nasa.gov/detail/nep0fds1  
 ・Pluto Image from Nasa : Pluto : https://nasa3d.arc.nasa.gov/detail/plu0rss1  
