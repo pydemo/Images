@@ -13,7 +13,7 @@
 ・Sun Image ©Solar System SCOPE : Sun : https://www.solarsystemscope.com/textures/  
   
 ・Cloud Image ©Natural Earth III : Tom Patterson : Cloud map : http://www.shadedrelief.com/natural3/index.html  
-・Milky way Image ©Solar System SCOPE : Stars + Milky Way : https://www.solarsystemscope.com/textures/  
+・Milky way Image ©Solar System SCOPE : Stars + Milky Way : https://www.solarsystemscope.com/textures/ : (CC BY 4.0)   
 
 
 # 
