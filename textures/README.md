@@ -1,6 +1,6 @@
 # Images
 
-・Moon Image ©Nasa.gov : CGI Moon Kit : https://svs.gsfc.nasa.gov/4720  
+・Moon Image ©Nasa.gov : CGI Moon Kit : https://svs.gsfc.nasa.gov/4720 : NASA's Scientific Visualization Studio   
 ・Mars Image ©Nasa.gov : Mars : https://nasa3d.arc.nasa.gov/detail/mar0kuu2  
 ・Neptune Image ©Nasa.gov : Neptune : https://nasa3d.arc.nasa.gov/detail/nep0fds1  
 ・Pluto Image ©Nasa.gov : Pluto : https://nasa3d.arc.nasa.gov/detail/plu0rss1  
@@ -12,7 +12,7 @@
 ・Uranus Image ©Solar System SCOPE : Uranus : https://www.solarsystemscope.com/textures/ : (CC BY 4.0)   
 ・Sun Image ©Solar System SCOPE : Sun : https://www.solarsystemscope.com/textures/ : (CC BY 4.0)   
   
-・Cloud Image ©Natural Earth III : Tom Patterson : Cloud map : http://www.shadedrelief.com/natural3/index.html  
+・Cloud Image ©Natural Earth III : Tom Patterson : Cloud map : http://www.shadedrelief.com/natural3/index.html : public domain  
 ・Milky way Image ©Solar System SCOPE : Stars + Milky Way : https://www.solarsystemscope.com/textures/ : (CC BY 4.0)   
 
 
