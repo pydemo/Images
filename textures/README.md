@@ -1,14 +1,14 @@
 # Images
 
-・Moon Image ©NASA's Scientific Visualization Studio : CGI Moon Kit : https://svs.gsfc.nasa.gov/4720   
-・Mars Image ©Nasa.gov : Mars : https://nasa3d.arc.nasa.gov/detail/mar0kuu2  
-・Neptune Image ©Nasa.gov : Neptune : https://nasa3d.arc.nasa.gov/detail/nep0fds1  
-・Pluto Image ©Nasa.gov : Pluto : https://nasa3d.arc.nasa.gov/detail/plu0rss1  
-・Jupiter Image ©Nasa.gov : Jupiter : https://nasa3d.arc.nasa.gov/detail/jup0vss1  
-・Saturn Image ©Nasa.gov : Saturn : https://nasa3d.arc.nasa.gov/detail/sat0fds1  
-・Venus Image ©Nasa.gov : Venus : https://nasa3d.arc.nasa.gov/detail/ven0aaa2  
-・Earth Image ©Nasa.gov : Earth : https://nasa3d.arc.nasa.gov/detail/ear0xuu2  
-・Mercury Image ©Nasa.gov : Enhanced Color Mercury Map : https://solarsystem.nasa.gov/resources/531/enhanced-color-mercury-map/?category=planets_mercury  
+・Moon Image : CGI Moon Kit : ©NASA's Scientific Visualization Studio https://svs.gsfc.nasa.gov/4720   
+・Mars Image : Mars : ©Nasa.gov https://nasa3d.arc.nasa.gov/detail/mar0kuu2  
+・Neptune Image : Neptune : ©Nasa.gov https://nasa3d.arc.nasa.gov/detail/nep0fds1  
+・Pluto Image : Pluto : ©Nasa.gov https://nasa3d.arc.nasa.gov/detail/plu0rss1  
+・Jupiter Image : Jupiter : ©Nasa.gov https://nasa3d.arc.nasa.gov/detail/jup0vss1  
+・Saturn Image : Saturn : ©Nasa.gov https://nasa3d.arc.nasa.gov/detail/sat0fds1  
+・Venus Image : Venus : ©Nasa.gov https://nasa3d.arc.nasa.gov/detail/ven0aaa2  
+・Earth Image : Earth : ©Nasa.gov https://nasa3d.arc.nasa.gov/detail/ear0xuu2  
+・Mercury Image : Enhanced Color Mercury Map : ©Nasa.gov https://solarsystem.nasa.gov/resources/531/enhanced-color-mercury-map/?category=planets_mercury  
 ・Uranus Image ©Solar System SCOPE : Uranus : https://www.solarsystemscope.com/textures/ : (CC BY 4.0)   
 ・Sun Image ©Solar System SCOPE : Sun : https://www.solarsystemscope.com/textures/ : (CC BY 4.0)   
   
